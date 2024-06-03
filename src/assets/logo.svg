@@ -1,0 +1,21 @@
+<svg width="79" height="48" viewBox="0 0 79 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="paint0_linear_3_20" x1="-1.66963" y1="29.9023" x2="81.4006" y2="0.496942" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#FF0000"/>
+    <stop offset="100%" stop-color="#00FF00"/>
+  </linearGradient>
+  <linearGradient id="paint1_linear_3_20" x1="4.78359" y1="33.3466" x2="84.6581" y2="1.37524" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#13B0F5"/>
+    <stop offset="1" stop-color="#CA24B4"/>
+  </linearGradient>
+  <linearGradient id="paint2_linear_3_20" x1="32.5312" y1="34.2716" x2="67.2688" y2="20.6005" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#FF0000"/>
+    <stop offset="100%" stop-color="#00FF00"/>
+  </linearGradient>
+  <linearGradient id="paint3_linear_3_20" x1="48.5754" y1="42.8154" x2="32.8522" y2="34.5265" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#13B0F5"/>
+    <stop offset="1" stop-color="#CA24B4"/>
+  </linearGradient>
+</defs>
+<text x="39.5" y="27" font-size="24" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="url(#paint0_linear_3_20)">CYF</text>
+</svg>
