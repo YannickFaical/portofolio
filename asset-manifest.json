@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YannickFaical.github.io%20/static/css/main.b45ad744.css",
-    "main.js": "/YannickFaical.github.io%20/static/js/main.711341d8.js",
+    "main.js": "/YannickFaical.github.io%20/static/js/main.155ad015.js",
     "static/media/project2.jpg": "/YannickFaical.github.io%20/static/media/project2.8f10b6f7941890960e2c.jpg",
     "static/media/profile.jpg": "/YannickFaical.github.io%20/static/media/profile.6987398d8fcac4e1547a.jpg",
     "static/media/project4.jpg": "/YannickFaical.github.io%20/static/media/project4.a7b7ed11daa072b234eb.jpg",
@@ -12,10 +12,10 @@
     "static/media/logo.svg": "/YannickFaical.github.io%20/static/media/logo.fef849f2f4d420873bc0de9fe5f47212.svg",
     "index.html": "/YannickFaical.github.io%20/index.html",
     "main.b45ad744.css.map": "/YannickFaical.github.io%20/static/css/main.b45ad744.css.map",
-    "main.711341d8.js.map": "/YannickFaical.github.io%20/static/js/main.711341d8.js.map"
+    "main.155ad015.js.map": "/YannickFaical.github.io%20/static/js/main.155ad015.js.map"
   },
   "entrypoints": [
     "static/css/main.b45ad744.css",
-    "static/js/main.711341d8.js"
+    "static/js/main.155ad015.js"
   ]
 }
