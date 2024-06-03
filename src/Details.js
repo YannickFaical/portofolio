@@ -49,8 +49,9 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein:
+    "https://www.linkedin.com/in/yannick-fa%C3%AF%C3%A7al-compaore-184279225/",
+  github: "https://github.com/YannickFaical",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
 };
